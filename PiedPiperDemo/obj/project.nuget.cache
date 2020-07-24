@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CogKWVCGA0iqjDYTMsZF9bSCo1XBWcVszK+bDeH/mOzMgSYpYKZPgE5DlUfwMfD/WhDKWE/eFAI6gIXnwuKUnQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivantolmachev/Downloads/DemoPP/CometChatFormSample/PiedPiperDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivantolmachev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ivantolmachev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ivantolmachev/.nuget/packages/xamarin.forms/3.3.0.967583/xamarin.forms.3.3.0.967583.nupkg.sha512"
+  ],
+  "logs": []
+}
